@@ -1,22 +1,23 @@
-# Оценка работы мобильного приложения стартапа по продаже продуктов питания 
+# Evaluation of the mobile application of a startup selling food
 
-## Цель проекта 
+## The main goal:
 
-Анализ воронки продаж и проверка гипотез о работе мобильного приложения.
+Analysis of the sales funnel and testing hypotheses concerning  the operation of the mobile application.
 
-## Навыки и интсрументы
-### Библиотеки 
+## Skills and Tools
+
+### Libraries 
 - Pandas 
 - Matplotlib
 - Plotly
 - Seaborn 
-### Навыки
-- Визуализация данных 
-- Проверка гипотез 
-- A/B-тестирование
+### Skills
+- Data visualization
+- Hypothesis testing
+- A/B testing
 
-## Данные
-- Название события;
-- Уникальный идентификатор пользователя;
-- Время события;
-- Номер эксперимента. 
+## Data
+- Event name;
+- Unique user ID;
+- Event time;
+- Experiment number.
